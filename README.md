@@ -20,8 +20,9 @@ contributor’s solutions, and then we will write our own notebook. Our idea
 right now is that it will enables us to compare several pre-trained networks on
 the data. Finally, we want to create our own network to see what we could do
 against the robust deep pre-trained networks.
-• Understanding the concepts (Week 4)
-• See fellow solutions (Week 6)
-• Compare pre-trained networks (Week 8)
-• Create own baseline network (Week 10)
-• Create own optimized network (Week 12)
+
+- Understanding the concepts (Week 4)
+- See fellow solutions (Week 6)
+- Compare pre-trained networks (Week 8)
+- Create own baseline network (Week 10)
+- Create own optimized network (Week 12)
